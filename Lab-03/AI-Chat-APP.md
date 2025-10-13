@@ -149,6 +149,9 @@ El archivo se abre en un editor de código.
 >completion = response.choices[0].message.content  
 >print(completion)
 >prompt.append({"role": "assistant", "content": completion})
+<img width="631" height="322" alt="Captura de pantalla 2025-10-13 171905" src="https://github.com/user-attachments/assets/484353f4-a14d-4f8a-9db0-5107c0a003dd" />
+
+
 
 8. Use el comando CTRL+S para guardar los cambios en el archivo de código.
 
