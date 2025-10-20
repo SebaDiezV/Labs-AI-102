@@ -8,4 +8,4 @@ Los laboratorios son proporcionados en los distintos modulos del entrenamiento p
 [Lab 03: Crear una aplicación de chat de IA Generativa](Lab-03/AI-Chat-APP.md) <br>
 [Lab 04: Usar un Prompt Flow para administrar la conversación en una aplicación de chat](Lab-04/Prompt_Flow.md)  
 [Lab 05: Crear una aplicación de IA generativa que utilice sus propios datos (RAG)](Lab-05/RAG.md)<br>
-[Lab 06: Ajuste de un modelo de lenguaje(Fine-Tune)](Lab-06/Fine-Tune.md)
+[Lab 06: Ajuste de un modelo de lenguaje (Fine-Tune)](Lab-06/Fine-Tune.md)
