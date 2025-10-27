@@ -9,7 +9,7 @@ Las características de Azure AI Foundry que vamos a usar en este ejercicio requ
 1. En un explorador web, abra el portal de Azure AI Foundry (https://ai.azure.com) e inicie sesión con sus credenciales de Azure. Cierre los paneles de sugerencias o de inicio rápido que se abran la primera vez que inicie sesión y, si es necesario, use el logotipo de Azure AI Foundry en la parte superior izquierda para navegar a la página principal, que tiene un aspecto similar al de la imagen siguiente (cierre el panel Ayuda si está abierto)
    <img width="1887" height="861" alt="Captura de pantalla 2025-10-13 151024" src="https://github.com/user-attachments/assets/28928bf2-e6c7-4f37-bb4e-d152f2186a2a" />
 
-2. En el navegador, vaya a https://ai.azure.com/managementCenter/allResources y seleccione Crear nuevo. A continuación, elija la opción para crear un nuevo recurso de AI Hub.
+2. En el navegador, vaya a https://ai.azure.com/managementCenter/allResources y seleccione Crear nuevo. A continuación, elija la opción para crear un nuevo recurso de AI Hub.<br>
    <img width="627" height="277" alt="Captura desde 2025-10-21 15-05-05" src="https://github.com/user-attachments/assets/a3885cd5-7b4b-482a-b99c-6c72019433ab" />
    <img width="662" height="546" alt="Captura desde 2025-10-21 15-05-18" src="https://github.com/user-attachments/assets/c19447ce-7929-4faf-a0cf-ce0cf7c78295" />
 
