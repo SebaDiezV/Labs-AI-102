@@ -10,4 +10,5 @@ Los laboratorios son proporcionados en los distintos modulos del entrenamiento p
 [Lab 05: Crear una aplicación de IA generativa que utilice sus propios datos (RAG)](Lab-05/RAG.md)<br>
 [Lab 06: Ajuste de un modelo de lenguaje (Fine-Tune)](Lab-06/Fine-Tune.md)<br>
 [Lab 07: Aplicar filtros de contenido para evitar la salida de contenido dañino](Lab-07/filtro-contenido.md)<br>
-[Lab 08: Evaluar el rendimiento del modelo de IA generativa](Lab-08/Rendimiento-modelo.md)
+[Lab 08: Evaluar el rendimiento del modelo de IA generativa](Lab-08/Rendimiento-modelo.md)<br>
+[Lab 09: Explora el desarrollo de agentes de IA](Lab-09/agente-ia.md)
